@@ -1,4 +1,4 @@
-# Run SmartUI XCUI Tests on TestMu AI (Formerly LambdaTest)
+﻿# Run SmartUI XCUI Tests on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -18,9 +18,9 @@ With TestMu AI (Formerly LambdaTest), you can run SmartUI visual regression test
 ### Prerequisites
 
 - Xcode installed on your macOS system.
-- A TestMu AI (Formerly LambdaTest) account with access to the Real Device cloud. [Sign up here](https://www.testmuai.com/register/).
-- Your TestMu AI Username and Access Key from your [profile page](https://accounts.lambdatest.com/detail/profile).
-- A SmartUI project token from your [SmartUI dashboard](https://smartui.lambdatest.com/projects).
+- A TestMu AI (Formerly LambdaTest) account with access to the Real Device cloud. Sign up here.
+- Your TestMu AI Username and Access Key from your profile page.
+- A SmartUI project token from your SmartUI dashboard.
 - Your app `.ipa` and test runner `.ipa` files built and ready.
 
 ### Setup
@@ -35,11 +35,11 @@ With TestMu AI (Formerly LambdaTest), you can run SmartUI visual regression test
 
 ### Run tests
 
-1. Upload your app IPA and test runner IPA to the TestMu AI platform using the [Upload API](https://www.testmuai.com/support/docs/getting-started-with-xcuitest/).
+1. Upload your app IPA and test runner IPA to the TestMu AI platform using the Upload API.
 
 2. Configure your SmartUI project token and execute the XCUI tests on real iOS devices via the TestMu AI API or dashboard.
 
-3. View visual comparison results in the [SmartUI Dashboard](https://smartui.lambdatest.com/).
+3. View visual comparison results in the SmartUI Dashboard.
 
 ### Local testing with TestMu AI Tunnel
 
